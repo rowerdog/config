@@ -10,5 +10,5 @@ git.ignore用来屏蔽项目中多余的文件
 
 .gitconfig
 
-![image-20210902151758316](C:\Users\root\AppData\Roaming\Typora\typora-user-images\image-20210902151758316.png)
+
 
