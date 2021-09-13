@@ -10,5 +10,7 @@ git.ignore用来屏蔽项目中多余的文件
 
 .gitconfig
 
+![](https://github.com/rowerdog/config/blob/master/imags/git%E9%85%8D%E7%BD%AE.png)
+
 
 
